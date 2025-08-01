@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/abdhija09/Leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
