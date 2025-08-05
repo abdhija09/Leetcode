@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
