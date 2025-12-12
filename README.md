@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdhija09/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/abdhija09/Leetcode/tree/master/0326-power-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Matrix
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -81,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
