@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abdhija09/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/abdhija09/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abdhija09/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Bit Manipulation
 |  |
 | ------- |
