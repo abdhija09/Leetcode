@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abdhija09/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3606-coupon-code-validator](https://github.com/abdhija09/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abdhija09/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abdhija09/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abdhija09/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Segment Tree
 |  |
 | ------- |
