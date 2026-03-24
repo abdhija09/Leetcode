@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abdhija09/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
