@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abdhija09/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abdhija09/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdhija09/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abdhija09/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## String
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abdhija09/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdhija09/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abdhija09/Leetcode/tree/master/0326-power-of-three) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdhija09/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abdhija09/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abdhija09/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
