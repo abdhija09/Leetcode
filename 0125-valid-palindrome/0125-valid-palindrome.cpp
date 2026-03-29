@@ -20,7 +20,7 @@ public:
 
         if (m == 0) return ok;
 
-        for (int i = 0; i < m / 2; i++) {
+        for (int i = 0; i < m ; i++) {
             if (q[i] != q[m - i - 1]) {
                 ok = false;
                 return ok;
