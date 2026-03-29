@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdhija09/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abdhija09/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abdhija09/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/abdhija09/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [3136-valid-word](https://github.com/abdhija09/Leetcode/tree/master/3136-valid-word) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abdhija09/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abdhija09/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/abdhija09/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abdhija09/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
