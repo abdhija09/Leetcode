@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abdhija09/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abdhija09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdhija09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2325-decode-the-message](https://github.com/abdhija09/Leetcode/tree/master/2325-decode-the-message) |
 | [3136-valid-word](https://github.com/abdhija09/Leetcode/tree/master/3136-valid-word) |
 | [3396-valid-word](https://github.com/abdhija09/Leetcode/tree/master/3396-valid-word) |
 | [3606-coupon-code-validator](https://github.com/abdhija09/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abdhija09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdhija09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2325-decode-the-message](https://github.com/abdhija09/Leetcode/tree/master/2325-decode-the-message) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2848-points-that-intersect-with-cars](https://github.com/abdhija09/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
