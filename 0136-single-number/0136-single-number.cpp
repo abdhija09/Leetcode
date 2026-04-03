@@ -1,28 +1,23 @@
-
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-
-        sort(nums.begin(), nums.end());
-
-        int ans = 0;
-
-        if(nums.size() == 1) return nums[0];
-
-        for(int i = 0; i < nums.size() - 1; ) {
-
-            if(nums[i] == nums[i + 1]) {
-               
-                nums.erase(nums.begin() + i, nums.begin() + i + 2);
-               
-            }
-            else {
-                ans = nums[i];
-                return ans;
-            }
-        }
-
-       ans= nums[0];
+       unordered_map<int,int>hash;
+       int ans;
+       if(nums.size()==1) {
+        ans=nums[0];
         return ans;
+       }
+       for(int i=0;i<nums.size();i++){
+        hash[nums[i]]++;
+       }
+       nums.erase(unique(nums.begin(),nums.end()),nums.end()); 
+       sort(nums.begin(),nums.end());
+       for(int i=0;i<nums.size();i++){
+        if(hash[nums[i]]==1) {
+            ans=nums[i]; 
+            return ans;
+        }
+       }
+       return ans;
     }
 };
