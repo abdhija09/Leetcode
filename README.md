@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abdhija09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2404-most-frequent-even-element](https://github.com/abdhija09/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdhija09/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abdhija09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/abdhija09/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdhija09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/abdhija09/Leetcode/tree/master/2325-decode-the-message) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2404-most-frequent-even-element](https://github.com/abdhija09/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2848-points-that-intersect-with-cars](https://github.com/abdhija09/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/abdhija09/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abdhija09/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdhija09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2404-most-frequent-even-element](https://github.com/abdhija09/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdhija09/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
 |  |
