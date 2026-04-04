@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abdhija09/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/abdhija09/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/abdhija09/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/abdhija09/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/abdhija09/Leetcode/tree/master/2325-decode-the-message) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abdhija09/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -318,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
+| [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
