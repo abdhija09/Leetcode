@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abdhija09/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdhija09/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/abdhija09/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abdhija09/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abdhija09/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abdhija09/Leetcode/tree/master/0326-power-of-three) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abdhija09/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/abdhija09/Leetcode/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
