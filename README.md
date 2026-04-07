@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abdhija09/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/abdhija09/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0593-valid-square](https://github.com/abdhija09/Leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdhija09/Leetcode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/abdhija09/Leetcode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
