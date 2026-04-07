@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/abdhija09/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abdhija09/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abdhija09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/abdhija09/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abdhija09/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abdhija09/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/abdhija09/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
