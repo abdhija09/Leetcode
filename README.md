@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abdhija09/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/abdhija09/Leetcode/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abdhija09/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
