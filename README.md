@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abdhija09/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abdhija09/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/abdhija09/Leetcode/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abdhija09/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
