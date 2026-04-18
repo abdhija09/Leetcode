@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abdhija09/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abdhija09/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abdhija09/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/abdhija09/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abdhija09/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abdhija09/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/abdhija09/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/abdhija09/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/abdhija09/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
