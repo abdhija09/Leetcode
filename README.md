@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abdhija09/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abdhija09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abdhija09/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abdhija09/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abdhija09/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abdhija09/Leetcode/tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdhija09/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/abdhija09/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/abdhija09/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abdhija09/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abdhija09/Leetcode/tree/master/0231-power-of-two) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abdhija09/Leetcode/tree/master/0078-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Trie
 |  |
