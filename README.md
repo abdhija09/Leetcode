@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abdhija09/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/abdhija09/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/abdhija09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abdhija09/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abdhija09/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/abdhija09/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
 ## String Matching
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -520,5 +523,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
