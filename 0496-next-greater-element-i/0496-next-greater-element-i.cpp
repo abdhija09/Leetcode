@@ -10,20 +10,22 @@ public:
             l.push(nums2[j]);
         }
         
-        bool found=false;
-        bool greater=false;
         stack<int> temp;
         while(!l.empty()){
             if(l.top()==nums1[i]){
-                found=true;
-                if(!temp.empty()&& temp.top()>=nums1[i]){
-                    ans.push_back(temp.top());  
-                }else{
-                    ans.push_back(-1);          
+                bool pushed=false;
+                while(!temp.empty()){
+                    if(temp.top()>nums1[i]){
+                        ans.push_back(temp.top());
+                        pushed=true;
+                        break;
+                    }
+                    temp.pop();
                 }
+                if(!pushed) ans.push_back(-1); 
                 break;
             }
-            temp.push(l.top());  
+            temp.push(l.top());
             l.pop();
         }
     }
