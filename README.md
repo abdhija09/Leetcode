@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abdhija09/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abdhija09/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
+| [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
@@ -525,4 +527,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
