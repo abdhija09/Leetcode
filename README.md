@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abdhija09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/abdhija09/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/abdhija09/Leetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/abdhija09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0890-find-and-replace-pattern](https://github.com/abdhija09/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0735-asteroid-collision](https://github.com/abdhija09/Leetcode/tree/master/0735-asteroid-collision) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abdhija09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/abdhija09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
