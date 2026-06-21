@@ -7,7 +7,10 @@ public:
     int atMost(vector<int>& nums, int k) {
         int l = 0, count = 0, result = 0;
         for (int r = 0; r < nums.size(); r++) {
-            if (nums[r] % 2 == 1) count++;     
+            if(count<=k){
+                if(nums[r]%2==1){
+                count++;}
+            };     
             
             while (count > k) {               
                 if (nums[l] % 2 == 1) count--;
