@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abdhija09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/abdhija09/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdhija09/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdhija09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abdhija09/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdhija09/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/abdhija09/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abdhija09/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/abdhija09/Leetcode/tree/master/0389-find-the-difference) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abdhija09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdhija09/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/abdhija09/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abdhija09/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdhija09/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/abdhija09/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/abdhija09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abdhija09/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abdhija09/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abdhija09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abdhija09/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/abdhija09/Leetcode/tree/master/0633-sum-of-square-numbers) |
