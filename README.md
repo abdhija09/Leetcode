@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0890-find-and-replace-pattern](https://github.com/abdhija09/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abdhija09/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abdhija09/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/abdhija09/Leetcode/tree/master/0735-asteroid-collision) |
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/abdhija09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bucket Sort
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abdhija09/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/abdhija09/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting Sort
 |  |
