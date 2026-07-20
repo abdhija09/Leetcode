@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdhija09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abdhija09/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/abdhija09/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/abdhija09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abdhija09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abdhija09/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/abdhija09/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/abdhija09/Leetcode/tree/master/0509-fibonacci-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abdhija09/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abdhija09/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/abdhija09/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/abdhija09/Leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Trie
 |  |
