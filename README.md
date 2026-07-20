@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/abdhija09/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abdhija09/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/abdhija09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abdhija09/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abdhija09/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdhija09/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/abdhija09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/abdhija09/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/abdhija09/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/abdhija09/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
