@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abdhija09/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/abdhija09/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/abdhija09/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abdhija09/Leetcode/tree/master/0518-coin-change-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abdhija09/Leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/abdhija09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/abdhija09/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/abdhija09/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0880-decoded-string-at-index](https://github.com/abdhija09/Leetcode/tree/master/0880-decoded-string-at-index) |
