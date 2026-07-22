@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/abdhija09/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/abdhija09/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abdhija09/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1092-shortest-common-supersequence](https://github.com/abdhija09/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abdhija09/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/abdhija09/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abdhija09/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/abdhija09/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abdhija09/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abdhija09/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abdhija09/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
