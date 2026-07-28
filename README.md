@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abdhija09/Leetcode/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/abdhija09/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/abdhija09/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0890-find-and-replace-pattern](https://github.com/abdhija09/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/abdhija09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abdhija09/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/abdhija09/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/abdhija09/Leetcode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -749,5 +753,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
