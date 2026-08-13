@@ -5,13 +5,13 @@ public:
         pathVis[node]=1;
         for(auto it: adj[node]){
             if(!vis[it]){
-                if(!detect(it, ans, adj, vis, pathVis)) return false;
+                if(detect(it, ans, adj, vis, pathVis)) return true;
             }
-            else if(pathVis[it]) return false; 
+            else if(pathVis[it]) return true; 
         }
         pathVis[node]=0;
         ans.push_back(node); 
-        return true;
+        return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
@@ -23,7 +23,7 @@ public:
         vector<int> pathVis(n,0);
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                if(!detect(i, ans, adj, vis, pathVis)) return {};
+                if(detect(i, ans, adj, vis, pathVis)) return {};
             }
         }
         return ans;
