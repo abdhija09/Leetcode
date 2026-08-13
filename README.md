@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abdhija09/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/abdhija09/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abdhija09/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/abdhija09/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdhija09/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abdhija09/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abdhija09/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/abdhija09/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abdhija09/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdhija09/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/abdhija09/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/abdhija09/Leetcode/tree/master/0733-flood-fill) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/abdhija09/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abdhija09/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abdhija09/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abdhija09/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abdhija09/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abdhija09/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/abdhija09/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abdhija09/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abdhija09/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/abdhija09/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/abdhija09/Leetcode/tree/master/0542-01-matrix) |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abdhija09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abdhija09/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abdhija09/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/abdhija09/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Greedy
