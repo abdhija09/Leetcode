@@ -3,31 +3,28 @@ public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n=graph.size();
         vector<int> outdegree(n,0);
-        vector<vector<int>> radj(n);
+        vector<int>adj[n];
+        vector<int>ans;
         for(int i=0;i<n;i++){
-            outdegree[i]=graph[i].size();
-            for(auto it:graph[i]){
-                radj[it].push_back(i);
+             outdegree[i] = graph[i].size();   
+            for(auto it: graph[i]){
+                adj[it].push_back(i);
             }
         }
         queue<int>q;
         for(int i=0;i<n;i++){
-            if(outdegree[i]==0) q.push(i);
+            if(outdegree[i]==0)q.push(i);
         }
-        vector<int>safe(n,0);
         while(!q.empty()){
             int node=q.front();
             q.pop();
-            safe[node]=1;
-            for(auto it: radj[node]){
+            ans.push_back(node);
+            for(auto it :adj[node]){
                 outdegree[it]--;
-                if(outdegree[it]==0) q.push(it);
+                if(outdegree[it]==0)q.push(it);
             }
         }
-        vector<int>ans;
-        for(int i=0;i<n;i++){
-            if(safe[i]) ans.push_back(i);
-        }
+        sort(ans.begin(),ans.end());
         return ans;
     }
 };
