@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abdhija09/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/abdhija09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/abdhija09/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abdhija09/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/abdhija09/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3227-find-missing-and-repeated-values](https://github.com/abdhija09/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abdhija09/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abdhija09/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abdhija09/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/abdhija09/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abdhija09/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/abdhija09/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/abdhija09/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abdhija09/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
 ## Union Find
@@ -602,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/abdhija09/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdhija09/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abdhija09/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Backtracking
 |  |
@@ -710,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abdhija09/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/abdhija09/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
 |  |
 | ------- |
@@ -874,4 +881,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/abdhija09/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
