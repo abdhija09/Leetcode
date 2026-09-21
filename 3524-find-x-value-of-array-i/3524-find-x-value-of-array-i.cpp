@@ -1,20 +1,33 @@
 class Solution {
 public:
-    vector<long long> resultArray(vector<int>& A, int k) {
-        vector<long long> res(k);
-        int freq[5] = {0};
-        for (auto& n : A) {
-            n %= k;
-            int cur[5] = {0}; 
-            cur[n] = 1;
-            for (int x = 0; x < k; x++)
-                cur[x * n % k] += freq[x];
+    vector<long long> resultArray(vector<int>& nums, int k) {
+        int n = nums.size();
 
-            for (int x = 0; x < k; x++) {
-                freq[x] = cur[x];
-                res[x] += freq[x];
+        vector<long long> ans(k, 0);
+        vector<long long> prev(k, 0);
+
+        for (int i = 0; i < n; i++) {
+            vector<long long> curr(k, 0);
+
+            int r = nums[i] % k;
+
+            // Subarray containing only nums[i]
+            curr[r]++;
+
+            // Extend previous subarrays
+            for (int j = 0; j < k; j++) {
+                int rem = (1LL * j * r) % k;
+                curr[rem] += prev[j];
             }
+
+            // Add counts to final answer
+            for (int j = 0; j < k; j++) {
+                ans[j] += curr[j];
+            }
+
+            prev = curr;
         }
-        return res;
+
+        return ans;
     }
 };
