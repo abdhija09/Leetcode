@@ -1,16 +1,26 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int r=nums1.size();
-
-       for(int i=m;i<r;i++){
-        nums1.erase(nums1.begin()+i);
-       }
-      
-        for(int i=0;i<n;i++){
-            nums1.push_back(nums2[i]);
+        unordered_map<int,int> hash;
+        int maxi = INT_MIN, mini = INT_MAX;
+        for (int i = 0; i < m; i++) {
+            hash[nums1[i]]++;
+            maxi = max(maxi, nums1[i]);
+            mini = min(mini, nums1[i]);
         }
-        sort(nums1.begin(),nums1.end());
-        return ;
+        for (int j = 0; j < n; j++) {
+            hash[nums2[j]]++;
+            maxi = max(maxi, nums2[j]);
+            mini = min(mini, nums2[j]);
+        }
+        int k = 0;
+        for (long long i = mini; i <= maxi; i++) {  
+            if (hash.find(i) != hash.end()) {
+                while (hash[i] > 0) {
+                    nums1[k++] = i;
+                    hash[i]--;
+                }
+            }
+        }
     }
 };
