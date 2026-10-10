@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abdhija09/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abdhija09/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abdhija09/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abdhija09/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/abdhija09/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdhija09/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abdhija09/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abdhija09/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abdhija09/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abdhija09/Leetcode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/abdhija09/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/abdhija09/Leetcode/tree/master/0268-missing-number) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abdhija09/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abdhija09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/abdhija09/Leetcode/tree/master/2951-find-the-peaks) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abdhija09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abdhija09/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abdhija09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -976,4 +980,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/abdhija09/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abdhija09/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
