@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/abdhija09/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abdhija09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/abdhija09/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/abdhija09/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -477,10 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/abdhija09/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abdhija09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/abdhija09/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/abdhija09/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abdhija09/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abdhija09/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
 |  |
 | ------- |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/abdhija09/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/abdhija09/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abdhija09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
 | ------- |
@@ -680,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/abdhija09/Leetcode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
