@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abdhija09/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1539-kth-missing-positive-number](https://github.com/abdhija09/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/abdhija09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/abdhija09/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abdhija09/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abdhija09/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abdhija09/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/abdhija09/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abdhija09/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abdhija09/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/abdhija09/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/abdhija09/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abdhija09/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/abdhija09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abdhija09/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/abdhija09/Leetcode/tree/master/2092-find-all-people-with-secret) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/abdhija09/Leetcode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/abdhija09/Leetcode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/abdhija09/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 | [2402-meeting-rooms-iii](https://github.com/abdhija09/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/abdhija09/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abdhija09/Leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abdhija09/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abdhija09/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/abdhija09/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/abdhija09/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abdhija09/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -954,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abdhija09/Leetcode/tree/master/0877-stone-game) |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 ## Iterator
 |  |
 | ------- |
@@ -1032,4 +1038,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abdhija09/Leetcode/tree/master/0912-sort-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
