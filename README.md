@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abdhija09/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abdhija09/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/abdhija09/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/abdhija09/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/abdhija09/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abdhija09/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abdhija09/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abdhija09/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abdhija09/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/abdhija09/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abdhija09/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdhija09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abdhija09/Leetcode/tree/master/0148-sort-list) |
@@ -1049,4 +1051,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/abdhija09/Leetcode/tree/master/1686-stone-game-vi) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abdhija09/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
